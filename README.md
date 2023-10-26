@@ -6,7 +6,7 @@
     <h2>About me🤷‍♀️</h2>
     <hr>
     <body>
-      <p>I am an undergratuate CS student at <b>Jodhpur Institute of Engineering & Technology.</b>Doing specialization in <b>Artificial Intelligence & Machine Learning.</b></p>
+      <p>I am an undergratuate CS student at <b>Jodhpur Institute of Engineering & Technology.</b> Doing specialization in <b>Artificial Intelligence & Machine Learning.</b></p>
       <br>
       <p>I love learning new technologies and contributing to the open source.</p>
       <ul>
